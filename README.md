@@ -682,6 +682,5 @@ This project is licensed under the MIT License, promoting open scientific collab
 - **Adaptive Algorithms**: Builds on classical work by Hairer, Nørsett, and Wanner
 - **Scientific Computing**: Utilizes NumPy/SciPy ecosystem for high-performance computation
 
----
 
-*This framework represents cutting-edge research in computational methods for sustainable energy systems. We encourage academic and industrial collaboration to advance renewable energy integration capabilities through robust numerical simulation.*
+
