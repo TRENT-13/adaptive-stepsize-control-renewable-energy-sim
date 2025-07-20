@@ -666,8 +666,7 @@ For technical issues, please provide:
 
 **Primary Author**: Kakhniashvili Terenti  
 **Project**: AP8 - Adaptive Renewable Energy Simulation  
-**Institution**: [Your Institution]  
-**Email**: [Your Email]
+
 
 ---
 
