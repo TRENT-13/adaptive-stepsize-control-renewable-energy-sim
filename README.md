@@ -1,9 +1,5 @@
 # Adaptive Step-Size Control for Dynamic Simulation of Renewable Energy Systems
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
-[![Numerical Methods](https://img.shields.io/badge/methods-Fehlberg-4(5)-green)](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta%E2%80%93Fehlberg_method)
-[![Scientific Computing](https://img.shields.io/badge/computing-adaptive_ODE-red)](https://en.wikipedia.org/wiki/Adaptive_stepsize)
 
 ## Abstract
 
